@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVIDemo1</string>
+    <string name="get_blog">Get Blog</string>
+    <string name="get_user">Get User</string>
+</resources>

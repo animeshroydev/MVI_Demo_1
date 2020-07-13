@@ -1,0 +1,2 @@
+rootProject.name='MVIDemo1'
+include ':app'
